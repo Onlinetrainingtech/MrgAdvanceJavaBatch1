@@ -22,7 +22,7 @@
     <fullyQualifiedTypeName name="BaseballCoach"/>
     <fullyQualifiedTypeName name="TrackCoach"/>
     <fullyQualifiedTypeName name="SetterInject.Player"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 </qualifiedTypeNameHistroy>
