@@ -39,6 +39,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.example.SpringIntegratingWithHibernate"/>
 			<item value="com.example.SpringMavenP1"/>
 			<item value="com.example.HibernateMaven"/>
 		</list>
@@ -46,6 +47,7 @@
 			<item value="com.example"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringIntegratingWithHibernate"/>
 			<item value="SpringMavenP1"/>
 			<item value="HibernateMaven"/>
 		</list>
